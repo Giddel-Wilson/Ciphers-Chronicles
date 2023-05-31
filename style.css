@@ -1,6 +1,7 @@
 body {
   font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   overflow-x: hidden;
+  overflow-y: auto;
 }
 
 h1,
@@ -22,6 +23,7 @@ header.masthead {
   background-color: #343a40;
   background: url("images/wallpaperflare.com_wallpaper\ \(5\).jpg") no-repeat
     center center;
+  height: 100vh;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
